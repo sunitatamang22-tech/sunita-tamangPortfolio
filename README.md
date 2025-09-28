@@ -7,7 +7,7 @@ I am a Master’s student in Cybersecurity and Digital Forensics at the Universi
 - Investigating the consequences of attacks including system downtime, data loss, financial disruption, and reduced workforce efficiency.
 - Research aims to identify patterns of vulnerability in SMBs and recommend practical strategies to reduce business impact.
 - Preliminary findings have been presented in a PowerPoint seminar, with a final research paper currently in progress.
--Link : [Research presentation.pptx](https://github.com/user-attachments/files/22580097/Research.presentation.pptx)
+- Link : [Research presentation.pptx](https://github.com/user-attachments/files/22580097/Research.presentation.pptx)
 
 
 # Projects
