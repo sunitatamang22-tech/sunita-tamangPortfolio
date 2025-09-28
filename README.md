@@ -1,6 +1,15 @@
 # Sunita Tamang – Portfolio
 I am a Master’s student in Cybersecurity and Digital Forensics at the University of the Sunshine Coast, Australia. My current research focuses on the impact of malware attacks on small and medium-sized businesses (SMBs), exploring how cyber threats affect productivity and resilience. Alongside my studies, I bring over 3 years of experience in software quality assurance and recently completed a cybersecurity internship at Ausbiz Consulting, where I gained practical skills in penetration testing, payload exploitation, and Two-Factor Authentication (2FA) implementation. I am passionate about Digital Forensics and Incident Response (DFIR) and I use this portfolio to showcase my projects, technical skills, and continuous learning journey in the field of cybersecurity.
 
+# Research (Ongoing)
+- Impact of Malware Attacks on Small and Medium-Sized Businesses (SMBs) 
+- Exploring how different malware types — such as ransomware, phishing malware, and trojans — affect the day-to-day productivity of SMBs.
+- Investigating the consequences of attacks including system downtime, data loss, financial disruption, and reduced workforce efficiency.
+- Research aims to identify patterns of vulnerability in SMBs and recommend practical strategies to reduce business impact.
+- Preliminary findings have been presented in a PowerPoint seminar, with a final research paper currently in progress.
+-Link : [Research presentation.pptx](https://github.com/user-attachments/files/22580097/Research.presentation.pptx)
+
+
 # Projects
 1. Two-Factor Authentication Implementation
 - Description: Implemented Two-Factor Authentication (2FA) on a website during a 10-week Cybersecurity Industry Internship at Ausbiz Consultant.
@@ -12,7 +21,7 @@ I am a Master’s student in Cybersecurity and Digital Forensics at the Universi
 - Description:Created an online portfolio showcasing my cybersecurity projects, certifications, and achievements as part of an academic requirement.
 - Tools & Tech: GitHub
 - Outcome: A publicly accessible portfolio to present my skills, experience, and projects to potential employers and academic assessors.
-- Link: https://www.sunitatamang.site/
+- Link : https://www.sunitatamang.site/
   
 # Professional Experience
 
