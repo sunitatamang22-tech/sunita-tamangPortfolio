@@ -35,12 +35,12 @@ I am a Master’s student in Cybersecurity and Digital Forensics at the Universi
 - Partnered with cross-functional teams to streamline debugging and defect resolution, achieving 90% defect detection efficiency
 
 # Certifications
-- Microsoft Security, Compliance, and Identity Fundamentals – Microsoft Certified_Sunita Tamang.pdf
-- Python Certification (Certiport) – IT Specialist - Python_Sunita Tamang.pdf
-- Web Design Course – Broadway Infosys – Web Developmet_Sunita Tamang.pdf
-- Internship - Certificate of Experience - Sunita Tamang.pdf
-- Experience certificate Oxford Acadamia - Certificate of Experience.pdf
-- Experience certificate Legalfit - Certificate of Experience - Sunita Tamang.pdf
+- Microsoft Security, Compliance, and Identity Fundamentals
+- Python Certification (Certiport) 
+- Web Design Course – Broadway Infosys 
+- Internship - Certificate of Experience 
+- Experience certificate Oxford Acadamia 
+- Experience certificate Legalfit 
 
 # Education
 - Master’s in Cybersecurity and Digital Forensics – University of the Sunshine Coast (Ongoing)
